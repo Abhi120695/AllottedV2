@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu2.xml",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\menu\\drawermenu2.xml"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu.xml",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\menu\\context_menu.xml"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

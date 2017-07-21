@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\cogwheel.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\cogwheel.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\finallogo.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\finallogo.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\save.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\save.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\resoicon.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\resoicon.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\finalback.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\finalback.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\about.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\about.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\database.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\database.png"
+    },
+    {
+        "merged": "C:\\PROJECTS\\Allotedv6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search.png",
+        "source": "C:\\PROJECTS\\Allotedv6\\app\\src\\main\\res\\drawable-ldpi\\search.png"
+    }
+]
